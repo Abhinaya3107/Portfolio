@@ -385,8 +385,8 @@ export default function Hero() {
           className="font-inter text-sm sm:text-base md:text-lg text-[#606078] max-w-xl mb-8 sm:mb-12 leading-relaxed"
         >
           I build production platforms for{" "}
-          <span className="text-violet-400 font-medium">GITEX Asia</span> &{" "}
-          <span className="text-cyan-400 font-medium">Godrej Aerospace</span>, then
+          <span className="text-violet-400 font-medium">Meeting Platform System</span> &{" "}
+          <span className="text-cyan-400 font-medium">Aerospace System</span>, then
           layer intelligence on top with{" "}
           <span className="text-fuchsia-300 font-medium">Generative &amp; Agentic AI</span>,{" "}
           <span className="text-[#a0a0b8]">OpenAI, RAG &amp; Azure AI</span>.

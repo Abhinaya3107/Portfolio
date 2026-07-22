@@ -15,8 +15,10 @@ export const personalInfo = {
   resumeUrl: "/Abhinaya_Angaitkar_Resume.pdf",
   summary:
     "AI Full-Stack Developer with PG-DAC (CDAC) in Advanced Computing. I build production-grade platforms and layer intelligent capabilities on top of them: Generative AI features, autonomous AI agents, and Retrieval-Augmented Generation (RAG) pipelines powered by OpenAI and Azure AI Search. Comfortable across the whole stack (C#, ASP.NET, Java, Spring Boot, React, Python, REST APIs, and cloud), now applied to shipping real, LLM-powered products.",
+    quote:
+    "Great software isn't just written, it's engineered with intelligence, purpose, and care.",
 };
- 
+
 export const skills = {
   "AI & Generative AI": [
     { name: "OpenAI / LLM APIs", level: 88 },
@@ -117,7 +119,7 @@ export const experience = [
     type: "Full-time",
     color: "#7c3aed",
     bullets: [
-      "Developed and maintained C#, ASP.NET & React-based web applications for international clients (Dubai, Godrej Aerospace).",
+      "Developed and maintained C#, ASP.NET & React-based web applications for international clients.",
       "Built AI-powered features using Azure AI Search and LLM APIs, including semantic matching, intelligent search and Retrieval-Augmented Generation over platform data.",
       "Integrated Azure AI Search for intelligent startup-investor matching in the XpoMatchEvents platform.",
       "Performed QA testing, debugging and performance optimization; participated in code reviews with Agile/SDLC workflows.",
@@ -128,7 +130,7 @@ export const experience = [
 
 export const projects = [
   {
-    title: "XpoMatchEvents",
+    title: "Meeting Platform",
     subtitle: "AI-Powered Startup Meeting Platform",
     description:
       "Built a full-stack meeting management platform for GITEX Asia, connecting startups and investors at the world's largest tech event. Integrated Azure AI Search for intelligent, semantic startup-investor matching and discovery.",
@@ -145,10 +147,10 @@ export const projects = [
     number: "01",
   },
   {
-    title: "Godrej Aerospace",
+    title: "Aerospace Assembly Management System",
     subtitle: "PreCheck Management System",
     description:
-      "Developed a component pre-check and QC management system for Godrej Aerospace's assembly operations. Managed end-to-end component tracking through pre-check, quality control, and assembly stages.",
+      "Developed a component pre-check and QC management system for Aerospace assembly operations. Managed end-to-end component tracking through pre-check, quality control, and assembly stages.",
     stack: ["C#", "ASP.NET", "React.js", "SQL Server", "REST APIs"],
     bullets: [
       "End-to-end component lifecycle tracking",
@@ -156,7 +158,7 @@ export const projects = [
       "Validation checklists for quality control",
       "Role-based access control for QC engineers & managers",
     ],
-    tag: "Godrej Aerospace · Defense & Manufacturing",
+    tag: "Defense & Manufacturing",
     color: "#06b6d4",
     gradient: "from-cyan-900/30 to-cyan-800/10",
     number: "02",

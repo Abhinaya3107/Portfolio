@@ -25,7 +25,7 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: "Abhinaya Angaitkar · AI Full-Stack Developer",
   description:
-    "Portfolio of Abhinaya H. Angaitkar, an AI Full-Stack Developer building Generative AI, Agentic AI & RAG features with OpenAI, LangChain and Azure AI on top of C#, ASP.NET, React & Spring Boot. Shipped platforms for GITEX Asia & Godrej Aerospace.",
+    "Portfolio of Abhinaya H. Angaitkar, an AI Full-Stack Developer building Generative AI, Agentic AI & RAG features with OpenAI, LangChain and Azure AI on top of C#, ASP.NET, React & Spring Boot.",
   keywords: [
     "Abhinaya Angaitkar",
     "AI Full Stack Developer",
