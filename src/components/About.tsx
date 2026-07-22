@@ -137,7 +137,7 @@ export default function About() {
                   Abhinaya H. Angaitkar
                 </span>
                 , an AI full-stack developer based in{" "}
-                <span className="text-violet-400">Pune, Maharashtra</span>.
+                <span className="text-violet-400">Maharashtra, India</span>.
                 I hold a{" "}
                 <span className="text-cyan-400 font-medium">
                   PG-DAC (CDAC)
@@ -154,7 +154,7 @@ export default function About() {
                 </span>{" "}
                 for GITEX Asia, and an{" "}
                 <span className="text-cyan-400 font-medium">
-                  aerospace QC system for Godrej
+                  aerospace QC system
                 </span>
                 . Today I focus on the{" "}
                 <span className="text-fuchsia-300 font-medium">

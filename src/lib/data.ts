@@ -9,7 +9,7 @@ export const personalInfo = {
     "Engineering intelligent, production-grade platforms, from full-stack systems to Generative & Agentic AI.",
   email: "abhinayaangaitkar0731@gmail.com",
   phone: "+91 9960068651",
-  location: "Pune, Maharashtra",
+  location: "Maharashtra, India",
   linkedin: "https://linkedin.com/in/abhinaya-angaitkar-43720021a",
   github: "https://github.com/Abhinaya3107",
   resumeUrl: "/Abhinaya_Angaitkar_Resume.pdf",
@@ -115,7 +115,7 @@ export const experience = [
     company: "Wingsbi",
     role: "Software Developer",
     period: "04/2026 – Present",
-    location: "Pune, Maharashtra",
+    location: "Maharashtra, India",
     type: "Full-time",
     color: "#7c3aed",
     bullets: [
