@@ -16,7 +16,7 @@ export const personalInfo = {
   summary:
     "AI Full-Stack Developer with PG-DAC (CDAC) in Advanced Computing. I build production-grade platforms and layer intelligent capabilities on top of them: Generative AI features, autonomous AI agents, and Retrieval-Augmented Generation (RAG) pipelines powered by OpenAI and Azure AI Search. Comfortable across the whole stack (C#, ASP.NET, Java, Spring Boot, React, Python, REST APIs, and cloud), now applied to shipping real, LLM-powered products.",
 };
-
+ 
 export const skills = {
   "AI & Generative AI": [
     { name: "OpenAI / LLM APIs", level: 88 },
